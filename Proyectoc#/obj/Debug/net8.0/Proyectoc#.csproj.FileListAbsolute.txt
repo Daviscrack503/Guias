@@ -1,0 +1,14 @@
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.csproj.AssemblyReference.cache
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.AssemblyInfoInputs.cache
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.AssemblyInfo.cs
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\bin\Debug\net8.0\Proyectoc#.deps.json
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\bin\Debug\net8.0\Proyectoc#.runtimeconfig.json
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\bin\Debug\net8.0\Proyectoc#.dll
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\bin\Debug\net8.0\Proyectoc#.pdb
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.dll
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\refint\Proyectoc#.dll
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.pdb
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\Proyectoc#.genruntimeconfig.cache
+C:\Users\Davis\Desktop\C#Proyecto\Proyectoc#\obj\Debug\net8.0\ref\Proyectoc#.dll

@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\repository\\calificaciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\repository\\calificaciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\models\\alumnoasigantura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\models\\alumnoasigantura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\context\\registroalumunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\context\\registroalumunocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\califiacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\califiacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\models\\calificacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\models\\calificacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|c:\\users\\davis\\desktop\\c#proyecto\\web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A5E71C-B141-4D03-AF5A-D7E1435AE885}|Web API\\Web API.csproj|solutionrelative:web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|c:\\users\\davis\\desktop\\c#proyecto\\proyectoc#\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12F60-4937-4037-85DE-7F7BD53AD9B9}|Proyectoc#\\Proyectoc#.csproj|solutionrelative:proyectoc#\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlumnoAsigantura.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\AlumnoAsigantura.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Models\\AlumnoAsigantura.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\AlumnoAsigantura.cs",
+              "RelativeToolTip": "Proyectoc#\\Models\\AlumnoAsigantura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:08:32.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "Web API\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:27:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Web API\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:06:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroAlumunoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Context\\RegistroAlumunoContext.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Context\\RegistroAlumunoContext.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Context\\RegistroAlumunoContext.cs",
+              "RelativeToolTip": "Proyectoc#\\Context\\RegistroAlumunoContext.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwB4AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:49:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\AlumnoDAO.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Repository\\AlumnoDAO.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\AlumnoDAO.cs",
+              "RelativeToolTip": "Proyectoc#\\Repository\\AlumnoDAO.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwIEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:08:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalificacionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\CalificacionDAO.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Repository\\CalificacionDAO.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\CalificacionDAO.cs",
+              "RelativeToolTip": "Proyectoc#\\Repository\\CalificacionDAO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:21:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Web API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:37:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calificacione.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\Calificacione.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Models\\Calificacione.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\Calificacione.cs",
+              "RelativeToolTip": "Proyectoc#\\Models\\Calificacione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T02:14:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\calificacion.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\calificacion.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\calificacion.cs",
+              "RelativeToolTip": "Web API\\Controllers\\calificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:45:21.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalifiacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\CalifiacionController.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\CalifiacionController.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\CalifiacionController.cs",
+              "RelativeToolTip": "Web API\\Controllers\\CalifiacionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:54:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "Web API\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "Web API\\Controllers\\ProfesorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:42:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Program.cs",
+              "RelativeDocumentMoniker": "Web API\\Program.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\Program.cs",
+              "RelativeToolTip": "Web API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:14:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\Profesor.cs",
+              "RelativeToolTip": "Proyectoc#\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:46:23.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfesorDao.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\ProfesorDao.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Repository\\ProfesorDao.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Repository\\ProfesorDao.cs",
+              "RelativeToolTip": "Proyectoc#\\Repository\\ProfesorDao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:32:25.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlumnoProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\AlumnoProfesor.cs",
+              "RelativeDocumentMoniker": "Proyectoc#\\Models\\AlumnoProfesor.cs",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Proyectoc#\\Models\\AlumnoProfesor.cs",
+              "RelativeToolTip": "Proyectoc#\\Models\\AlumnoProfesor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:33:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\C#Proyecto\\Web API\\appsettings.json",
+              "RelativeToolTip": "Web API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T20:53:15.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
